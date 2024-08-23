@@ -14,8 +14,10 @@
 
 ![anaconda 000](https://github.com/user-attachments/assets/deeac725-93f6-4ad0-bd27-f914b6b53f15)
 
-#### Step 4: Click on "64-Bit Graphical Installer (912.3M)" to download the Windows installer or click on "64-Bit (Apple silicon) Graphical Installer (704.7M)"
-#### or click on "64-Bit (Apple silicon) Graphical Installer (704.7M)" to download the Mac installer as the case may be
+#### Step 4: Click on "64-Bit Graphical Installer (912.3M)" to download the Windows installer 
+#### or click on "64-Bit (Apple silicon) Graphical Installer (704.7M)"
+#### or click on "64-Bit (Apple silicon) Graphical Installer (704.7M)" 
+#### to download the Mac installer as the case may be
 
 ![anaconda 1](https://github.com/user-attachments/assets/c198c8b5-a6f6-45fe-bfb1-3b05d1917131)
 
