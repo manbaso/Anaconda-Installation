@@ -33,12 +33,13 @@
 
 ![anaconda 4](https://github.com/user-attachments/assets/da3f21d5-70fb-4af5-b606-ce0b247bcd03)
 
-#### Step 9: The installer will choose the default location for the installation. Click on "Next" to continue
+#### Step 9: The installer will choose the default location for the installation. 
+#### Click on "Next" to continue
 
 ![anaconda 5](https://github.com/user-attachments/assets/ac033dd4-615a-4ee1-95d7-0feaf913612b)
 
-#### Step 10: You may check the box beside "Register Anaconda3 as my default python3.12. Though recommended, checking the box is optional. 
-#### Click on "Next" to continue
+#### Step 10: You may check the box beside "Register Anaconda3 as my default python3.12. 
+#### Though recommended, checking the box is optional. Click on "Next" to continue
 
 ![anaconda 6](https://github.com/user-attachments/assets/dc98a6df-e3a9-451b-8d39-f64e33fbe79b)
 
@@ -50,7 +51,8 @@
 
 ![anaconda 8](https://github.com/user-attachments/assets/312d0e44-557f-48cd-b863-c7ef225f9ebd)
 
-#### Step 13: Go to the Windows search box and locate or search for "Anaconda Navigator". Open the navigator
+#### Step 13: Go to the Windows search box and locate or search for "Anaconda Navigator". 
+#### Open the navigator
 
 #### Step 14: Updating Anaconda is optional. Make your choice and enjoy
 
